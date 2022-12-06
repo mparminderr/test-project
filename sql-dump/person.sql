@@ -1,0 +1,2 @@
+insert into MY_TABLE (id, fname, lname, birthdate, telephone, language_id, country_id, createdAt, updatedAt) values (15, 'Joan', 'Laporte', '2022-12-21', '1234567890', 8, 8, '2022-12-06 14:32:48.405000 +00:00', '14:32:48.405+00');
+insert into MY_TABLE (id, fname, lname, birthdate, telephone, language_id, country_id, createdAt, updatedAt) values (17, 'Jake', 'kessi', '2022-12-22', '1234567891', 9, 9, '2022-12-06 16:13:00.069000 +00:00', '16:13:00.069+00');
